@@ -1,1 +1,4 @@
-# sprite-generator
+## command
+```bash
+npm run sprite
+```
